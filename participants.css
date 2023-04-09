@@ -1,0 +1,9 @@
+.both{background-color: aquamarine;}
+h1{font-size: 80px;font-family: Arial, Helvetica, sans-serif;text-align: center;}
+#image{width: 500px;float: right;margin: 20px;border-radius: 10px;}
+table tr td{border-radius: 10px;border-style: solid;margin-right: -30%;}
+.images1{float: right;}
+#imge7{width: 200px;height: 200px;margin-top: 35%;border-radius: 10px;}
+#imge10{width: 200px;height: 200px;border-radius: 10px;}
+button{background-color: white;padding: 20px;border-radius: 10px;margin-left: 30%;}
+.table4{border-style: solid;border-color: black;border-radius: 10px;}
